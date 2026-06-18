@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Java Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthSaklani3&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SiddharthSaklani3&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -60,14 +60,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddharthSaklani3&theme=tokyo-night" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
@@ -91,24 +83,6 @@
 □ Dynamic Programming
 □ System Design
 ```
-
----
-
-## 🚀 Featured Repositories
-
-### 📌 LeetCode Solutions
-Repository containing all solved LeetCode questions categorized by topic.
-
-### 📌 Java DSA
-Data Structures and Algorithms implementations in Java.
-
-### 📌 DBMS Notes
-Complete DBMS notes and SQL practice.
-
-### 📌 Mini Projects
-Collection of Java projects and experiments.
-
----
 
 ## 📫 Connect With Me
 

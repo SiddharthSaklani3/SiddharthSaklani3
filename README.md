@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Java Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthSaklani3&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SiddharthSaklani3" />
 </p>
 
 ---

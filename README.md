@@ -2,10 +2,6 @@
 
 <h3 align="center">Computer Science Student | Java Developer | DSA Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthSaklani3" />
-</p>
-
 ---
 
 ## 🚀 About Me
